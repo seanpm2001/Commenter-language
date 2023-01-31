@@ -220,8 +220,16 @@ The commenter language has multiple purposes:
 
 The idea for this language came to me (seanpm2001) on 2023, Tuesday, January 31st.
 
+## INSPIRATIONS
+
+This project has 3 inspirations:
+
+- [:octocat: `NoCode by kelseyhightower`](https://github.com/kelseyhightower/nocode/)
+- The ability to make source code comments
+- The way source code comments look
+
 ***
 
-**File version:** `1 (2023, Tuesday, January 31st at 11:13 pm PST)`
+**File version:** `2 (2023, Tuesday, January 31st at 11:18 pm PST)`
 
 ***
