@@ -216,6 +216,10 @@ The commenter language has multiple purposes:
 2. It can be used as a framework for implementing comments into another programming language
 3. It can be used for note-taking
 
+## LEARNING CURVE
+
+This language has no learning curve. If this can even count as a programming language, it is likely the most basic one in existence.
+
 ## IDEA
 
 The idea for this language came to me (seanpm2001) on 2023, Tuesday, January 31st.
@@ -230,6 +234,12 @@ This project has 3 inspirations:
 
 ***
 
-**File version:** `2 (2023, Tuesday, January 31st at 11:18 pm PST)`
+**File version:** `3 (2023, Tuesday, January 31st at 1:16 pm PST)`
+
+**Miscellaneous Q&A**
+
+**Q:** _Why are all of the headings capitalized?_
+
+**A:** _I recently saw a repository that used this style on its README, and wanted to try that on this repository. I don't plan on continuing to do this regularly._
 
 ***
